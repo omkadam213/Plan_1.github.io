@@ -1,0 +1,55 @@
+Basic projection:-
+
+--------------------------Step1) Login funlity------------------------------------
+
+Work:- Only the registered user will be authenticated, if user is not registered,
+       then redirect him/her on registration page
+
+Fields:- Username, password or Login with google or login with facebook (Any 2)
+
+--------------------------Step2) Asking for art preference-------------------------
+
+Work:- Here user will sort the art types, just like pinterest, and whatever the
+       user will sort, he/she will only be able to see the related art,
+       user can also add/remove the arts from there preference section
+
+Fields:- All art fields, but with the search bar top above the art list
+
+--------------------------Step3) Creation of feed page-----------------------------
+
+Work:- Now here we comes up with the catchy consept, we are not giving the access
+       to user to follow someone, here what we're gonna do is, whatever the 
+       preferences user had given to us, we just have to show them art from 
+       various artists(Make sure the related arts only!)
+
+Fields:- We have to discuss this, it will depend upon the UI of application
+         but the basic funcs are: 1) like, 2) marketplace, 3) talk with artist,
+         4) add art, 5) trending art
+
+Branches:- If user selected for the trending art, then user will get the options
+           releted to his/her preference and only then the user will be able to see
+           the trendig art(Note:- The user trend number will be shown on top)
+                                
+                                Getting over it
+
+               We can also add the funclity called, improve your skill
+
+We also have to make a competition between the artist and the winner will get 
+featured on the timeline or on the trending list,
+there will be 2 diff kind of arts like 1) solo art, 2) collab art the result
+for both the categories will be different.
+the result of the art will be guessed from the votes, so we have to create the 
+voting page too, where what people will do is they can search the name of the
+artist by username and there the voter will get the option to vote the artist,
+and the artist will be able to see by whome he/she got to be voted.
+
+--------------------------Step4) Competition page------------------------------------
+
+Work:- Here what we're gonna do is we'll flash a notification for the
+       user to get participated if the user clicked on participate option
+       then he has to add the image of his/her art, and a bit discription
+       about the art, and after participating he'll be able to see by whome 
+       he got the votes, just below the notification.
+
+
+The reason behind the votes is to capture the market attention towards our application
